@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/change-color-react/static/css/main.277434a2.css",
+    "main.js": "/change-color-react/static/js/main.b3cb9698.js",
+    "index.html": "/change-color-react/index.html",
+    "main.277434a2.css.map": "/change-color-react/static/css/main.277434a2.css.map",
+    "main.b3cb9698.js.map": "/change-color-react/static/js/main.b3cb9698.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.277434a2.css",
+    "static/js/main.b3cb9698.js"
+  ]
+}
